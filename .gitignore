@@ -2,5 +2,7 @@
 *.swp
 *.log
 *.dvi
+*.out
+*.aux
 currvita
-*9b.tex
+*9b.*
